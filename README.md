@@ -1,6 +1,6 @@
 # DeepTimeGeo 
 
-The official PyTorch implementation of **DeepTimeGeo:  Trajectory Reconstruction from Sparse Data with Transformer** (Under Review KDD '24). 
+The official PyTorch implementation of **DeepTimeGeo:  Trajectory Reconstruction from Sparse Data with Transformer**. 
 
 ![OverallFramework](asset/model.png  "Overall framework")
 
